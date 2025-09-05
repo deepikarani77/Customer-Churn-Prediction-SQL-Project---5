@@ -1,4 +1,90 @@
+✨ **Excited to share my latest project**! ✨
 
+**Project Name: Customer-Churn-Prediction SQL Project Working with operator’s constraints and data types In MySQL**
+
+🚀 **Problem Statement**:
+
+-  Telecom companies lose millions in revenue due to customer churn. Understanding customer behavior using SQL queries can help reduce churn by identifying patterns, anomalies, and customer risk factors.
+
+🚀 **Solution**:
+
+- We design and optimize MySQL queries with constraints, operators, indexing, and proper data types to manage and analyze churn dataset efficiently.
+
+🚀 **concepts used in this project**
+
+   1.	Mysql operators
+-	Arithmetic 
+-	Bitwise 
+-	Comparison
+-	Compound
+-	Logical 
+
+2.	Indexing in Mysql – how to create an index
+3.	Order of execution in sql
+4.	Mysql constraints 
+-	Not null 
+-	Primary 
+-	Foreign key
+-	Unique
+-	Check
+
+5.	Data types in sql
+-	String 
+-	Numeric
+-	Time and Date
+
+
+🚀 **Goal**:
+
+- To build a highly optimized SQL database for churn prediction analysis, while demonstrating real-world problem-solving SQL skills.
+- Tech Stack
+- Database: MySQL
+- Data: Customer Churn Dataset (telecom data with demographics, subscription details, churn flag)
+
+🚀 **Tools**: 
+- MySQL Workbench / DBeaver
+
+🚀 **Tech Used**:
+
+- SQL Operators
+- Indexing for query optimization
+- SQL Execution Order
+- Constraints for Data Integrity
+- Proper Data Types for efficient storage
+
+🚀 **What I Did**?
+
+-  Built a normalized churn prediction database in MySQL.
+-  Applied operators, indexing, constraints, and data types for real-world queries.
+-  Optimized SQL queries for customer churn analysis.
+
+🚀 **What I Learnt**?
+
+-  Using SQL operators for data manipulation.
+-  Creating indexes for query performance.
+-  Understanding execution order of SQL queries.
+-  Applying constraints for data integrity.
+-  Choosing correct data types for efficiency.
+
+🚀 **Impact**:
+
+-  Faster churn prediction queries (indexing reduced execution time).
+-  Prevented data anomalies with constraints.
+-  Real-time customer insights for retention strategy.
+
+🚀 **Key Skills Shown**:
+
+-  SQL Query Writing
+-  Database Optimization
+-  Data Integrity Management
+-  Analytical Problem Solving
+
+🚀 **Skills**:
+
+-  **SQL MySQL Data Integrity Indexing Constraints Query Optimization Database Design Customer Churn Prediction**
+
+**#CustomerChurnPrediction #SQLProject #MySQL #DataScienceProjects #Freshers #DatabaseDesign 
+#Indexing #SQLQueries #DataIntegrity #ChurnAnalysis #SQLForDataScience #PortfolioProject**
 
 **Working with operator’s constraints and data types In MySQL**
 
