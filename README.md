@@ -4,11 +4,11 @@
 
 🚀 **Problem Statement**:
 
--  Telecom companies lose millions in revenue due to customer churn. Understanding customer behavior using SQL queries can help reduce churn by identifying patterns, anomalies, and customer risk factors.
+Telecom companies lose millions in revenue due to customer churn. Understanding customer behavior using SQL queries can help reduce churn by identifying patterns, anomalies, and customer risk factors.
 
 🚀 **Solution**:
 
-- We design and optimize MySQL queries with constraints, operators, indexing, and proper data types to manage and analyze churn dataset efficiently.
+We design and optimize MySQL queries with constraints, operators, indexing, and proper data types to manage and analyze churn dataset efficiently.
 
 🚀 **concepts used in this project**
 
